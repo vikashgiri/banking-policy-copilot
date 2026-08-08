@@ -1,0 +1,22 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the purpose of the policy?",
+    "must_include_any": ["purpose", "protect", "guidelines", "information"]
+  },
+  {
+    "id": "q2",
+    "question": "What is the scope of this policy?",
+    "must_include_any": ["scope", "employees", "applies"]
+  },
+  {
+    "id": "q3",
+    "question": "What happens if someone violates the policy?",
+    "must_include_any": ["disciplinary", "termination", "consequences", "enforcement"]
+  },
+  {
+    "id": "q4",
+    "question": "What is the capital of Mars?",
+    "must_include_any": ["don't know", "do not know", "not available", "no information"]
+  }
+]
